@@ -20,6 +20,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g4stylus-common/proprietary/vendor/lib/libcryptfs_hw.so:system/vendor/lib/libcryptfs_hw.so \
     vendor/lge/g4stylus-common/proprietary/vendor/lib/libfastcvopt.so:system/vendor/lib/libfastcvopt.so \
     vendor/lge/g4stylus-common/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
+    vendor/lge/g4stylus-common/proprietary/app/com.qualcomm.location/com.qualcomm.location.apk:system/app/com.qualcomm.location/com.qualcomm.location.apk \
     vendor/lge/g4stylus-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/lge/g4stylus-common/proprietary/lib/libcrypto_wlan.so:system/lib/libcrypto_wlan.so \
     vendor/lge/g4stylus-common/proprietary/vendor/lib/libdataitems.so:system/vendor/lib/libdataitems.so \

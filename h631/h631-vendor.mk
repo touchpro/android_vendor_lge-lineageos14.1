@@ -34,7 +34,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/h631/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/lge/h631/proprietary/bin/sensord:system/bin/sensord \
     vendor/lge/h631/proprietary/bin/time_daemon:system/bin/time_daemon \
-    vendor/lge/h631/proprietary/bin/vm_bms:system/bin/vm_bms \
     vendor/lge/h631/proprietary/bin/xtwifi-client:system/bin/xtwifi-client \
     vendor/lge/h631/proprietary/bin/xtwifi-inet-agent:system/bin/xtwifi-inet-agent \
     vendor/lge/h631/proprietary/etc/acdbdata/Bluetooth_cal.acdb:system/etc/acdbdata/Bluetooth_cal.acdb \
@@ -77,6 +76,16 @@ PRODUCT_COPY_FILES += \
     vendor/lge/h631/proprietary/etc/firmware/venus.b04:system/etc/firmware/venus.b04 \
     vendor/lge/h631/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
     vendor/lge/h631/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
+    vendor/lge/h631/proprietary/vendor/firmware/widevine.b00:system/etc/firmware/widevine.b00 \
+    vendor/lge/h631/proprietary/vendor/firmware/widevine.b01:system/etc/firmware/widevine.b01 \
+    vendor/lge/h631/proprietary/vendor/firmware/widevine.b02:system/etc/firmware/widevine.b02 \
+    vendor/lge/h631/proprietary/vendor/firmware/widevine.b03:system/etc/firmware/widevine.b03 \
+    vendor/lge/h631/proprietary/vendor/firmware/widevine.mdt:system/etc/firmware/widevine.mdt \
+    vendor/lge/h631/proprietary/vendor/firmware/keymaster/keymaster.b00:system/vendor/firmware/keymaster/keymaster.b00 \
+    vendor/lge/h631/proprietary/vendor/firmware/keymaster/keymaster.b01:system/vendor/firmware/keymaster/keymaster.b01 \
+    vendor/lge/h631/proprietary/vendor/firmware/keymaster/keymaster.b02:system/vendor/firmware/keymaster/keymaster.b02 \
+    vendor/lge/h631/proprietary/vendor/firmware/keymaster/keymaster.b03:system/vendor/firmware/keymaster/keymaster.b03 \
+    vendor/lge/h631/proprietary/vendor/firmware/keymaster/keymaster.mdt:system/vendor/firmware/keymaster/keymaster.mdt \
     vendor/lge/h631/proprietary/etc/flp.conf:system/etc/flp.conf \
     vendor/lge/h631/proprietary/etc/izat.conf:system/etc/izat.conf \
     vendor/lge/h631/proprietary/etc/lowi.conf:system/etc/lowi.conf \
@@ -90,6 +99,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/h631/proprietary/etc/xtra_root_cert.pem:system/etc/xtra_root_cert.pem \
     vendor/lge/h631/proprietary/etc/xtwifi.conf:system/etc/xtwifi.conf \
     vendor/lge/h631/proprietary/lib/drm/libdrmwvmplugin.so:system/lib/drm/libdrmwvmplugin.so \
+    vendor/lge/h631/proprietary/lib/hw/audio.primary.msm8916.so:system/lib/hw/audio.primary.msm8916.so \
     vendor/lge/h631/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.msm8916.so \
     vendor/lge/h631/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/lge/h631/proprietary/lib/hw/sensors.msm8916.so:system/lib/hw/sensors.msm8916.so \

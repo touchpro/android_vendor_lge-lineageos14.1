@@ -99,7 +99,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/h631/proprietary/etc/xtra_root_cert.pem:system/etc/xtra_root_cert.pem \
     vendor/lge/h631/proprietary/etc/xtwifi.conf:system/etc/xtwifi.conf \
     vendor/lge/h631/proprietary/lib/drm/libdrmwvmplugin.so:system/lib/drm/libdrmwvmplugin.so \
-    vendor/lge/h631/proprietary/lib/hw/audio.primary.msm8916.so:system/lib/hw/audio.primary.msm8916.so \
     vendor/lge/h631/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.msm8916.so \
     vendor/lge/h631/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/lge/h631/proprietary/lib/hw/sensors.msm8916.so:system/lib/hw/sensors.msm8916.so \
